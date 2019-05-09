@@ -18,7 +18,7 @@ The array should be sorted in descending order of number of occurrences.
 - char_count("A") => [["A", 1]]
 - char_count("abacab") => [["a", 3], ["b", 2], ["c", 1]]
 - char_count("ilovetocode") => [["o", 3], ["e", 2], ["c", 1], ["d", 1], ["i", 1], ["l", 1], ["t", 1], ["v", 1]]
-- char_count("My name is: Sherif Shendidy") => [[" ", 4], ["e", 3], ["i", 3], ["S", 2], ["d", 2], ["h", 2], ["n", 2], ["y", 2], [":", 1], ["M", 1] ["a", 1], ["f", 1], ["m", 1] ["r", 1], ["s", 1]]
+- char_count("My name is: Sherif Shendidy") => [[" ", 4], ["e", 3], ["i", 3], ["S", 2], ["d", 2], ["h", 2], ["n", 2], ["y", 2], [":", 1], ["M", 1], ["a", 1], ["f", 1], ["m", 1], ["r", 1], ["s", 1]]
 
 ## Github link:
 https://github.com/Shendidy/char_count.git
