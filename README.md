@@ -24,4 +24,4 @@ The array should be sorted in descending order of number of occurrences.
 https://github.com/Shendidy/char_count.git
 
 ## Youtube link:
-xxxx
+https://youtu.be/vRHRawPfwPE
