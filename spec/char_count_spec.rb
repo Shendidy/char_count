@@ -5,7 +5,11 @@ describe Char_Count do
     expect(subject.char_count(nil)).to eq([0])
   end
 
-  it '2- should return ["A", 1]' do
-    expect(subject.char_count("A")).to eq(["A", 1])
+  it '2- should return [["A", 1]]' do
+    expect(subject.char_count("A")).to eq([["A", 1]])
+  end
+
+  it '3- should return [["a", 3], ["b", 2], ["c", 1]]' do
+    expect(subject.char_count("abacab")).to eq([["a", 3], ["b", 2], ["c", 1]])
   end
 end
